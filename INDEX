@@ -1,0 +1,29 @@
+cdAPI                   Champion Data AFL API
+getBench                Match Bench
+getChains               Match Chains
+getCurrentSeason        Current Season
+getEntries              Match Entries
+getFixture              Fixture
+getLadder               Ladder
+getLeaders              Match Stat Leaders
+getLeague               League Details
+getLeagueId             League ID
+getLeagueLevel          League Level Details
+getLeagueLevelId        League Level ID
+getMatch                Match Details
+getMatchPeriods         Match Periods
+getMatchPersons         Match Persons
+getMatchTransactions    Match Transactions
+getMetrics              Match Metrics
+getPeriodScores         Period Scores
+getPlayerStats          Match Player Stats
+getRotations            Match Rotations
+getSeason               Season Details
+getShots                Match Shots
+getSquad                Squad Details
+getSquadLists           Squad Person Lists
+getSquadPersons         Squad Person List
+getSquadStats           Match Squad Stats
+getSquads               Squad List
+getVenue                Match Venue
+to_minsec               to_minsec
